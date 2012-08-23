@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/xjamundx/gitblame.png)](http://travis-ci.org/xjamundx/gitblame)
 # gitblame
 
 Use git blame to find out who modified a file.
